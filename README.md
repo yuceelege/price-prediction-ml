@@ -25,8 +25,8 @@ Seaborn
 -P values of the categorical columns raleting with SalePrice is identified by using statsmodels and <br/>
 and most related 5 five columns are chosen
 
-**Regression Model**
--Random Forest Regression is used.
+**Regression Model** <br/>
+Random Forest Regression is used.
 
 **Accuracy**
 Relative Squared Error : 0.15962 <br/>

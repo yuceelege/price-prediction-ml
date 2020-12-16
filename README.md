@@ -28,7 +28,7 @@ and most related 5 five columns are chosen.
 **Regression Model** <br/>
 Random Forest Regression is used.
 
-**Accuracy**
+**Accuracy** <br/>
 Relative Squared Error : 0.15962 <br/>
 Code can be submitted to the given Kaggle link to get the results: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 

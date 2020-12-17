@@ -21,7 +21,7 @@ This is a program that accurately predicts the house prices by using data provid
 
 **Column Selection**
 
--Correlation matrix with target parameter is created for numerical columns and top 10 related columns are chosen.
+-Correlation matrix with target parameter is created for numerical columns and top 10 related columns are chosen. <br/>
 -P values of the categorical columns raleting with SalePrice is identified by using statsmodels and <br/>
 and most related 5 five columns are chosen.
 
